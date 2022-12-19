@@ -1,10 +1,16 @@
-# site test
+# CV
 Mon site internet 
 https://www.quentin-kny.fr/
 
 <h1> Quentin DELIZEE</h1>
-
-<p> Mes projets</p>
+<h2> Mes renseignements</h2>
+<p>  quentin.delizee1@gmail.com</p>
+<p> 4 Grand Rue 08150 Laval Morency</p>
+<p> 
+<p>  20 ans</p>
+<p>  Français</p>
+<p>  0634092373</p><br>
+<h2> Mes projets:</h2>
 <p>
 Projet success:
 Création d'API avec nodejs expressjs
@@ -23,3 +29,37 @@ SQL PHP html css
 Projet sélection:
 SQL PHP html css
 </p>
+<h1>Compétences</h1>
+<p>API:
+Dolibarr, création API</p>
+<p> Langage de programmation:
+Html, css, php, vue, javascript, nodejs, expressjs
+</p>
+<p> Outil de developpement
+Visual studio code, github, mongodb
+</p>
+<h1> Expériences professionnelles</h1>
+<p> Stagiaire ― Abeille ardennaise Charleville-Mézières, France
+De janvier 2022 à février 2022
+Ébauche application mobile, amélioration système de gestion de commande</p>
+<p>Stagiaire ― Les Amis du Parc Renwez, France
+De mai 2021 à juin 2021
+Espace membre sur un site internet</p>
+<p>Intérimaire ― Dim Tech Rimogne, France
+Avril 2021</p>
+Montage de chambre froide et d'un surgélateur
+<p>Stagiaire ― Fleur de Pot's Rimogne, France
+Février 2017
+Stage d'observation</p>
+<h2> Langues</h2>
+<p> Allemand:
+Niveau A1</p>
+<p>Anglais:
+Niveau: B1</p>
+<h2>Atouts</h2>
+<p>Sens de l'organisation</p>
+<p>Travail d'équipe</p>
+<p>Rigueur</p>
+<h2> Centres d'intérêt</h2>
+<p>Lecture de manga</p>
+<p>Sport</p>
